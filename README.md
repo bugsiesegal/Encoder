@@ -1,7 +1,7 @@
 # Text Autoencoder 🤖
 
 ## Archaeological Discovery
-This is a text autoencoder experiment from my early adventures in machine learning, circa [year]. While the details are lost to time, this appears to be my first exploration into the fascinating (and sometimes frustrating) world of autoencoders.
+This is a text autoencoder experiment from my early adventures in machine learning, circa 2021. While the details are lost to time, this appears to be my first exploration into the fascinating (and sometimes frustrating) world of autoencoders.
 
 ## Technical Details (as far as I can remember)
 - **Architecture**: 1D CNN for encoding text (unconventional but apparently worked?)
